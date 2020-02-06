@@ -4,3 +4,9 @@ E:\Dev Environment\C#\HackerRank\HackerRank\bin\Debug\HackerRank.exe
 E:\Dev Environment\C#\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
 E:\Dev Environment\C#\HackerRank\HackerRank\obj\Debug\HackerRank.exe
 E:\Dev Environment\C#\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\HackerRank\bin\Debug\HackerRank.exe
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\HackerRank\obj\Debug\HackerRank.csprojAssemblyReference.cache
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\HackerRank\obj\Debug\HackerRank.exe
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\HackerRank\obj\Debug\HackerRank.pdb

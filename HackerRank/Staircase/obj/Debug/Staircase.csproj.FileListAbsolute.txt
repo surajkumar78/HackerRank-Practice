@@ -1,0 +1,5 @@
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\Staircase\bin\Debug\Staircase.exe.config
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\Staircase\bin\Debug\Staircase.exe
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\Staircase\bin\Debug\Staircase.pdb
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\Staircase\obj\Debug\Staircase.exe
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\Staircase\obj\Debug\Staircase.pdb
