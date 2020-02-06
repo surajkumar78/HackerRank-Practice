@@ -11,13 +11,30 @@ namespace MatrixDiagAddition
     {
         public static int diagonalDifference(List<List<int>> arr)
         {
-            for (var i = 0; i < arr
+            var diag1 = 0;
+            var diag2 = 0;
+            string diagonal1 = "";
+            string diagonal2 = "";
+            var j = 0;
+            foreach(List<int> subList in arr)
+            {
+                for(var i=0; i< subList.Count;)
+                {
+                    diag1 = diag1 + subList[i + j] ;
+                    diag2 = diag2 + subList[subList.Count - j - 1];
+                    diagonal1 = diagonal1 + subList[i + j] + " + ";
+                    diagonal2 = diagonal2 + subList[subList.Count - j - 1] + " + ";
+                    break;
+                }
+                j++;
+            }
+            Console.WriteLine(diagonal1.Substring(0,diagonal1.Length-1) + " : " + diag1);
+            Console.WriteLine(diagonal2.Substring(0,diagonal2.Length-1) + " : " + diag2);
+            return Math.Abs(diag1 - diag2);
         }
 
         static void Main(string[] args)
         {
-            TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
-
             int n = Convert.ToInt32(Console.ReadLine().Trim());
 
             List<List<int>> arr = new List<List<int>>();
@@ -28,11 +45,7 @@ namespace MatrixDiagAddition
             }
 
             int result = Program.diagonalDifference(arr);
-
-            textWriter.WriteLine(result);
-
-            textWriter.Flush();
-            textWriter.Close();
+            Console.WriteLine(result);
         }
     }
 }

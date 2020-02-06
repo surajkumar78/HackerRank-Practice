@@ -1,0 +1,6 @@
+E:\Dev Environment\C#\HackerRank Practice\MatrixDiagAddition\MatrixDiagAddition\bin\Debug\MatrixDiagAddition.exe.config
+E:\Dev Environment\C#\HackerRank Practice\MatrixDiagAddition\MatrixDiagAddition\bin\Debug\MatrixDiagAddition.exe
+E:\Dev Environment\C#\HackerRank Practice\MatrixDiagAddition\MatrixDiagAddition\bin\Debug\MatrixDiagAddition.pdb
+E:\Dev Environment\C#\HackerRank Practice\MatrixDiagAddition\MatrixDiagAddition\obj\Debug\MatrixDiagAddition.csprojAssemblyReference.cache
+E:\Dev Environment\C#\HackerRank Practice\MatrixDiagAddition\MatrixDiagAddition\obj\Debug\MatrixDiagAddition.exe
+E:\Dev Environment\C#\HackerRank Practice\MatrixDiagAddition\MatrixDiagAddition\obj\Debug\MatrixDiagAddition.pdb
