@@ -1,0 +1,6 @@
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\MinMax\bin\Debug\MinMax.exe.config
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\MinMax\bin\Debug\MinMax.exe
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\MinMax\bin\Debug\MinMax.pdb
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\MinMax\obj\Debug\MinMax.csprojAssemblyReference.cache
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\MinMax\obj\Debug\MinMax.exe
+E:\Dev Environment\C#\HackerRank Practice\HackerRank\MinMax\obj\Debug\MinMax.pdb
