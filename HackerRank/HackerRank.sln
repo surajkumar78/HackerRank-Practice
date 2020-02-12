@@ -37,6 +37,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppleOrange", "AppleOrange"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleOrange", "AppleOrange\AppleOrange.csproj", "{BEA805FC-FDA9-42C9-A1B1-03777EFBC906}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringReverse", "StringReverse", "{1C8835F0-75C7-4F4F-86F7-B54C9A61341C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "StringReverse\StringReverse.csproj", "{2E40D4F2-DBF2-403A-BE8F-D98752A64B97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +83,10 @@ Global
 		{BEA805FC-FDA9-42C9-A1B1-03777EFBC906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEA805FC-FDA9-42C9-A1B1-03777EFBC906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEA805FC-FDA9-42C9-A1B1-03777EFBC906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E40D4F2-DBF2-403A-BE8F-D98752A64B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E40D4F2-DBF2-403A-BE8F-D98752A64B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E40D4F2-DBF2-403A-BE8F-D98752A64B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E40D4F2-DBF2-403A-BE8F-D98752A64B97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +100,7 @@ Global
 		{374411AB-D649-43EA-BCFB-F2054580394B} = {4539508E-2248-4555-BF06-F503CD727F11}
 		{4D20BAF0-67C7-4434-A8F7-CDA514218CF9} = {03A6F823-4DF5-4C6C-A3A3-FD1577702BA5}
 		{BEA805FC-FDA9-42C9-A1B1-03777EFBC906} = {F4D4F203-A8B4-4A39-866B-7716587C7505}
+		{2E40D4F2-DBF2-403A-BE8F-D98752A64B97} = {1C8835F0-75C7-4F4F-86F7-B54C9A61341C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E9E1D9A2-D9EE-4FC1-9431-1CB9C837CD72}
